@@ -1,0 +1,6 @@
+Nx	64
+Ny	64
+J	1.0
+T	2.27
+Niter	5000
+Outdir	./output
